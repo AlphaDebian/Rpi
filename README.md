@@ -109,3 +109,4 @@ $ wget "https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.pn
 $ python3 test.py lenna.jpg
 $ python3 test2.py
 ```
+The "test.py" takes a command line argument & the "test2.py" loads image by specifying the image 'lenna.jpg' located in the current directory.
