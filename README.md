@@ -110,3 +110,6 @@ $ python3 test.py lenna.jpg
 $ python3 test2.py
 ```
 The "test.py" takes a command line argument & the "test2.py" loads image by specifying the image 'lenna.jpg' located in the current directory.
+
+##### Note: Take a backup of the entire SD card to avoid reinstalling everything if something goes wrong or say the micro-SD card gets currupted or reaches its limit of read and write cycles.
+To Backup your entire SD card follow the steps provided [here](https://www.howtogeek.com/341944/how-to-clone-your-raspberry-pi-sd-card-for-foolproof-backup/).
